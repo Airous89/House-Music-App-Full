@@ -14,7 +14,7 @@
   header{
     width: 95%;
     padding: 40px 0;
-    color: #ebca52;
+    color: darkgoldenrod;
     font-size: 25px;
   }
 
@@ -151,7 +151,7 @@ h1 {
 button {
   padding: 20px;
   border: none;
-  background-color: #38A9AF;
+  background-color: rgb(131, 12, 57);
   color: #ffffff;
   font-size: 18px;
   text-transform: uppercase;
@@ -168,16 +168,16 @@ main div {
   margin: 0 auto;
 }
 label:nth-child(1) {
-  background-color: rgb(122, 36, 139)
+  background-color: rgb(65, 7, 77)
 }
 label:nth-child(2) {
-  background-color: rgb(217, 33, 241)
+  background-color: rgb(118, 10, 133)
 }
 label:nth-child(3) {
   background-color: rgb(207, 24, 100)
 }
 label:nth-child(4) {
-  background-color: rgb(248, 18, 145)
+  background-color: rgb(128, 7, 73)
 }
 label {
   padding: 20px;
@@ -265,7 +265,7 @@ form button:hover, form button:focus {
   margin-right: 20px
 }
 .correctFeedback span {
-  color: #AF6438;
+  color: whitesmoke;
 }
 .correctFeedback img {
   width: 150px;
@@ -278,7 +278,7 @@ form button:hover, form button:focus {
   margin-bottom: 20px
 }
 h3 {
-  color: #AF6438;
+  color: whitesmoke;
   font-size: 40px;
   margin-bottom: 20px;
 }
